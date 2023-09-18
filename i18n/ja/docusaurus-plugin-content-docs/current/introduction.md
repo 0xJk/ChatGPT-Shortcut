@@ -2,9 +2,9 @@
 slug: /
 ---
 
-# AiShort 紹介
+# Aibot 紹介
 
-AiShort は、簡潔で使いやすい AI 指示のリストを提供します。プロンプトの理解がなくても、フィルタリングと検索を通じて様々なシナリオに適したプロンプトを簡単に見つけることができ、生産性を向上させます。
+Aibot は、簡潔で使いやすい AI 指示のリストを提供します。プロンプトの理解がなくても、フィルタリングと検索を通じて様々なシナリオに適したプロンプトを簡単に見つけることができ、生産性を向上させます。
 
 🚀 **ワンクリックプロンプト**: ただ一つのクリックで、専門家によって慎重に選ばれたさまざまなプロンプトを取得することができます。それらを ChatGPT のような AI 言語モデルに送ると、期待した出力を得ることができます。
 
@@ -18,9 +18,9 @@ AiShort は、簡潔で使いやすい AI 指示のリストを提供します�
 
 🗳️ **コミュニティ投票システム**: Product Hunt や Reddit のように、プラットフォームはコミュニティ駆動型です。最高のプロンプトはホームページに推されます。
 
-📦 **すぐに使用可能**: <https://www.aishort.top/ja/>を訪問してすぐに使用を開始します。
+📦 **すぐに使用可能**: <https://www.aibot.top/ja/>を訪問してすぐに使用を開始します。
 
-AiShort のプロンプトの源は、インターネットの選択、コミュニティの共有、そして[Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)によるものです。私たちは定期的に更新を行い、新しいプロンプトとインスピレーションを提供します。
+Aibot のプロンプトの源は、インターネットの選択、コミュニティの共有、そして[Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)によるものです。私たちは定期的に更新を行い、新しいプロンプトとインスピレーションを提供します。
 
 アイデアとフィードバックを交換するために、私たちの Discord コミュニティに参加することを歓迎します。
 
@@ -30,7 +30,7 @@ AiShort のプロンプトの源は、インターネットの選択、コミュ
 
 ## ブラウザエクステンション
 
-AiShort（ChatGPT Shortcut）のブラウザエクステンションは、Chrome と Edge をサポートしており、Web 版と同じ機能を持ち、定期的に更新されます。エクステンションは ChatGPT のページが読み込まれると自動的にトリガーされるか、または`Alt+Shift+S`ホットキーを押すことでエクステンションウィンドウをアクティブにすることができます。
+Aibot（ChatGPT Shortcut）のブラウザエクステンションは、Chrome と Edge をサポートしており、Web 版と同じ機能を持ち、定期的に更新されます。エクステンションは ChatGPT のページが読み込まれると自動的にトリガーされるか、または`Alt+Shift+S`ホットキーを押すことでエクステンションウィンドウをアクティブにすることができます。
 
 <a href="https://chrome.google.com/webstore/detail/chatgpt-shortcut/blcgeoojgdpodnmnhfpohphdhfncblnj">
   <img src="https://img.newzone.top/2023-06-05-12-28-49.png?imageMogr2/format/webp"  alt="Chrome" valign="middle" /></a>

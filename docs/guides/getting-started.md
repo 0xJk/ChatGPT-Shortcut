@@ -1,6 +1,6 @@
 # 开始上手
 
-AiShort 页面默认显示全部的提示词，页面分为标签区、搜索区和提示词展示区。
+Aibot 页面默认显示全部的提示词，页面分为标签区、搜索区和提示词展示区。
 
 ![image](https://user-images.githubusercontent.com/28252913/222007639-20148284-8366-427f-9ee7-ad1be0edbd2e.png)
 

@@ -624,8 +624,8 @@
   "userInfo.email": {
     "message": "Mail:"
   },
-  "AiShort (ChatGPT Shortcut) - 简单易用的 ChatGPT 快捷指令表，让生产力倍增！标签筛选、关键词搜索和一键复制 Prompts": {
-    "message": "AiShort (ChatGPT Shortcut) - A simple and user-friendly ChatGPT shortcut command list that doubles productivity! Includes label filtering, prompt search, and one-click prompt copying."
+  "Aibot (ChatGPT Shortcut) - 简单易用的 ChatGPT 快捷指令表，让生产力倍增！标签筛选、关键词搜索和一键复制 Prompts": {
+    "message": "Aibot (ChatGPT Shortcut) - A simple and user-friendly ChatGPT shortcut command list that doubles productivity! Includes label filtering, prompt search, and one-click prompt copying."
   },
   "message.resetPassword.success": {
     "message": "Password reset successful!"
@@ -711,8 +711,8 @@
   "toggle_prompt_language": {
     "message": "Switching Prompt Languages"
   },
-  "你添加或制作过的个人提示词，可用于存放AiShort之外的提示词。": {
-    "message": "Personal prompts you have added or made can be used to store prompts other than AiShort."
+  "你添加或制作过的个人提示词，可用于存放Aibot之外的提示词。": {
+    "message": "Personal prompts you have added or made can be used to store prompts other than Aibot."
   },
   "加载更多": {
     "message": "Load More"
@@ -751,7 +751,7 @@
     "message": "The prompts displayed on this page are shared and uploaded by netizens, we cannot guarantee the accuracy, quality or completeness of the content, and we also do not take responsibility for any legal liability arising from the content. If you find any infringement or other problems, you can contact us to deal with it. We will deal with it as soon as possible after receiving the notification."
   },
   "description.communityPrompts": {
-    "message": "Explore the collection of innovative prompts shared by AiShort users, these unique and fun prompts can inspire you when creating short videos, novels, games and more. Vote for your favorite prompts, copy them and share them with your friends. Let Aishort help you open the door to creativity and create great work together."
+    "message": "Explore the collection of innovative prompts shared by Aibot users, these unique and fun prompts can inspire you when creating short videos, novels, games and more. Vote for your favorite prompts, copy them and share them with your friends. Let Aibot help you open the door to creativity and create great work together."
   },
   "link.myfavorite": {
     "message": "My Favorites"

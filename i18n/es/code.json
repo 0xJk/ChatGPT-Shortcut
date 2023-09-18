@@ -43,8 +43,8 @@
     "message": "Agradecemos cualquier sugerencia, idea o comentario para mejorar continuamente ChatGPT Shortcut y aumentar la eficacia y productividad personales. Si necesita hacer comentarios sobre un error, facilite un enlace al lugar donde se produjo el problema y las circunstancias que lo rodearon. En cuanto al contenido, puedes enviarlo en varios idiomas o simplemente describir tu idea. Buscamos ideas que estimulen la mente o que produzcan resultados de alta calidad. Una vez que se publique el tema que envíe, su contribución se añadirá a la página. Puede encontrar la entrada correspondiente buscando el nombre del colaborador (nombre de usuario).",
     "description": "The main paragraph on the feedback page"
   },
-  "AiShort (ChatGPT Shortcut) - 简单易用的 ChatGPT 快捷指令表，让生产力倍增！标签筛选、关键词搜索和一键复制 Prompts": {
-    "message": "AiShort (ChatGPT Shortcut) - ¡Hoja de comandos de acceso directo a ChatGPT fácil de usar que multiplica la productividad! Filtrado de etiquetas, búsqueda de palabras clave y copia con un solo clic Prompts"
+  "Aibot (ChatGPT Shortcut) - 简单易用的 ChatGPT 快捷指令表，让生产力倍增！标签筛选、关键词搜索和一键复制 Prompts": {
+    "message": "Aibot (ChatGPT Shortcut) - ¡Hoja de comandos de acceso directo a ChatGPT fácil de usar que multiplica la productividad! Filtrado de etiquetas, búsqueda de palabras clave y copia con un solo clic Prompts"
   },
   "让生产力加倍的 ChatGPT 快捷指令": {
     "message": "Atajos de ChatGPT que duplican la productividad"
@@ -62,8 +62,8 @@
   "toggle_prompt_language_description": {
     "message": "Cambia el idioma en el que se muestran las indicaciones, alternando entre el inglés y el idioma actual de la página."
   },
-  "你添加或制作过的个人提示词，可用于存放AiShort之外的提示词。": {
-    "message": "Las señales personales que haya añadido o creado pueden utilizarse para almacenar señales distintas de AiShort."
+  "你添加或制作过的个人提示词，可用于存放Aibot之外的提示词。": {
+    "message": "Las señales personales que haya añadido o creado pueden utilizarse para almacenar señales distintas de Aibot."
   },
   "分享到社区的提示词": {
     "message": "Consejos para compartir con la comunidad"
@@ -751,7 +751,7 @@
     "description": "The title of the tag list page"
   },
   "description.communityPrompts": {
-    "message": "Explora la colección de prompts innovadores compartidos por los usuarios de Aishort, estos prompts únicos y divertidos pueden inspirarte a la hora de crear vídeos cortos, novelas, juegos y mucho más. Vota por tus prompts favoritos, cópialos y compártelos con tus amigos. Deja que Aishort te ayude a abrir la puerta a la creatividad y a crear juntos grandes obras."
+    "message": "Explora la colección de prompts innovadores compartidos por los usuarios de Aibot, estos prompts únicos y divertidos pueden inspirarte a la hora de crear vídeos cortos, novelas, juegos y mucho más. Vota por tus prompts favoritos, cópialos y compártelos con tus amigos. Deja que Aibot te ayude a abrir la puerta a la creatividad y a crear juntos grandes obras."
   },
   "link.myfavorite": {
     "message": "Mis favoritos"

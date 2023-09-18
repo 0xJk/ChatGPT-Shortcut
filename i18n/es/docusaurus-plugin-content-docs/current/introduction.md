@@ -2,9 +2,9 @@
 slug: /
 ---
 
-# Introducción a AiShort
+# Introducción a Aibot
 
-AiShort proporciona una lista concisa y fácil de usar de instrucciones de IA. Incluso sin entender las solicitudes, puedes encontrar fácilmente las solicitudes adecuadas para diversos escenarios a través de filtrado y búsqueda, mejorando así tu productividad.
+Aibot proporciona una lista concisa y fácil de usar de instrucciones de IA. Incluso sin entender las solicitudes, puedes encontrar fácilmente las solicitudes adecuadas para diversos escenarios a través de filtrado y búsqueda, mejorando así tu productividad.
 
 🚀 **Solicitudes de un solo clic**: Con solo un clic, puedes obtener una variedad de solicitudes seleccionadas cuidadosamente por expertos. Envíalas a modelos de lenguaje AI como ChatGPT y puedes obtener la salida esperada.
 
@@ -18,9 +18,9 @@ AiShort proporciona una lista concisa y fácil de usar de instrucciones de IA. I
 
 🗳️ **Sistema de votación comunitaria**: Similar a Product Hunt o Reddit, la plataforma es impulsada por la comunidad. Las mejores solicitudes serán promovidas a la página principal.
 
-📦 **Listo para usar**: Simplemente visita <https://www.aishort.top/es/> para comenzar a usar.
+📦 **Listo para usar**: Simplemente visita <https://www.aibot.top/es/> para comenzar a usar.
 
-La fuente de las solicitudes de AiShort incluye selecciones de internet, compartidas por la comunidad, y [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts). Actualizaremos regularmente para proporcionarte nuevas solicitudes e inspiración.
+La fuente de las solicitudes de Aibot incluye selecciones de internet, compartidas por la comunidad, y [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts). Actualizaremos regularmente para proporcionarte nuevas solicitudes e inspiración.
 
 Te invitamos a unirte a nuestra comunidad en Discord para intercambiar ideas y comentarios.
 
@@ -30,7 +30,7 @@ Te invitamos a unirte a nuestra comunidad en Discord para intercambiar ideas y c
 
 ## Extensión del navegador
 
-La extensión del navegador AiShort (ChatGPT Shortcut) es compatible con Chrome y Edge y tiene una funcionalidad consistente con la versión web y se actualiza regularmente. La extensión puede ser activada automáticamente cuando se carga la página de ChatGPT, o puedes activar la ventana de la extensión presionando la tecla de acceso rápido `Alt+Shift+S`.
+La extensión del navegador Aibot (ChatGPT Shortcut) es compatible con Chrome y Edge y tiene una funcionalidad consistente con la versión web y se actualiza regularmente. La extensión puede ser activada automáticamente cuando se carga la página de ChatGPT, o puedes activar la ventana de la extensión presionando la tecla de acceso rápido `Alt+Shift+S`.
 
 <a href="https://chrome.google.com/webstore/detail/chatgpt-shortcut/blcgeoojgdpodnmnhfpohphdhfncblnj">
   <img src="https://img.newzone.top/2023-06-05-12-28-49.png?imageMogr2/format/webp"  alt="Chrome" valign="middle" /></a>

@@ -1,6 +1,6 @@
 # Comenzando
 
-AiShort se muestra por defecto con todas las palabras sugeridas. La página se divide en tres secciones: el área de etiquetas, el área de búsqueda y el área de visualización de palabras sugeridas.
+Aibot se muestra por defecto con todas las palabras sugeridas. La página se divide en tres secciones: el área de etiquetas, el área de búsqueda y el área de visualización de palabras sugeridas.
 
 ![](https://img.newzone.top/2023-06-05-20-44-19.png?imageMogr2/format/webp)
 

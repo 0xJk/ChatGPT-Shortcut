@@ -41,11 +41,11 @@ const { Text } = Typography;
 
 function CommunityPrompts() {
   const TITLE =
-    "AiShort Community Prompts - Share and find interesting prompts";
+    "Aibot Community Prompts - Share and find interesting prompts";
   const DESCRIPTION = translate({
     id: "description.communityPrompts",
     message:
-      "探索由 AiShort 用户分享的创新提示词集合，这些独特且有趣的提示词可以激发你在创作短视频、小说、游戏等内容时的灵感。投票支持你最爱的提示，将它们复制并与你的朋友分享。让 AiShort 帮助你打开创造力的大门，一起创作出色的作品吧。",
+      "探索由 Aibot 用户分享的创新提示词集合，这些独特且有趣的提示词可以激发你在创作短视频、小说、游戏等内容时的灵感。投票支持你最爱的提示，将它们复制并与你的朋友分享。让 Aibot 帮助你打开创造力的大门，一起创作出色的作品吧。",
   });
   const { userAuth } = useContext(AuthContext);
   const [open, setOpen] = useState(false);

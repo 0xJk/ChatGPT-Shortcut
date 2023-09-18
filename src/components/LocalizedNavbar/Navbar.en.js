@@ -13,7 +13,7 @@ const enNavbar = {
       position: 'left',
     },
     {
-      to: "https://www.aishort.top/en/feedback",
+      to: "https://www.aibot.top/en/feedback",
       label: "Feedback",
       position: "left",
     },

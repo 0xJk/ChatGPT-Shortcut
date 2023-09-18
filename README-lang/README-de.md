@@ -19,9 +19,9 @@ Deutsch |
     <em>ChatGPT Shortcut, Maximize your Efficiency and Productivity</em>
 </p>
 
-## Warum AiShort verwenden?
+## Warum Aibot verwenden?
 
-AiShort bietet eine prägnante und benutzerfreundliche Liste von KI-Anweisungen. Selbst ohne Verständnis für Prompts können Sie durch Filtern und Suchen einfach die für verschiedene Szenarien geeigneten Prompts finden, was Ihre Produktivität verbessert.
+Aibot bietet eine prägnante und benutzerfreundliche Liste von KI-Anweisungen. Selbst ohne Verständnis für Prompts können Sie durch Filtern und Suchen einfach die für verschiedene Szenarien geeigneten Prompts finden, was Ihre Produktivität verbessert.
 
 🚀 **Prompts mit einem Klick**: Mit nur einem Klick erhalten Sie eine Vielzahl von sorgfältig ausgewählten Prompts von Experten. Senden Sie sie an KI-Sprachmodelle wie ChatGPT und Sie erhalten die erwartete Ausgabe.
 
@@ -35,9 +35,9 @@ AiShort bietet eine prägnante und benutzerfreundliche Liste von KI-Anweisungen.
 
 🗳️ **Community-Abstimmungssystem**: Ähnlich wie Product Hunt oder Reddit, wird die Plattform von der Community betrieben. Die besten Prompts werden auf die Startseite geschoben.
 
-📦 **Sofort einsatzbereit**: Besuchen Sie einfach <https://www.aishort.top/de/> um zu starten.
+📦 **Sofort einsatzbereit**: Besuchen Sie einfach <https://www.aibot.top/de/> um zu starten.
 
-Die Quelle der AiShort-Prompts umfasst Internet-Auswahl, Community-Teilungen und [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts). Wir werden regelmäßig aktualisieren, um Ihnen neue Prompts und Inspirationen zu bieten. Um zu verstehen, wie AiShort verwendet wird, lesen Sie bitte das [Benutzerhandbuch](https://www.aishort.top/de/docs/guides/getting-started).
+Die Quelle der Aibot-Prompts umfasst Internet-Auswahl, Community-Teilungen und [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts). Wir werden regelmäßig aktualisieren, um Ihnen neue Prompts und Inspirationen zu bieten. Um zu verstehen, wie Aibot verwendet wird, lesen Sie bitte das [Benutzerhandbuch](https://www.aibot.top/de/docs/guides/getting-started).
 
 Willkommen in unserer Discord-Community, um Ideen auszutauschen und Feedback zu geben.
 
@@ -47,7 +47,7 @@ Willkommen in unserer Discord-Community, um Ideen auszutauschen und Feedback zu 
 
 ## Browser-Erweiterung
 
-Die AiShort (ChatGPT Shortcut) Browser-Erweiterung unterstützt Chrome und Edge mit Funktionen, die mit der Webversion übereinstimmen und regelmäßig aktualisiert werden. Die Erweiterung kann automatisch ausgelöst werden, wenn die ChatGPT-Seite geladen wird, oder Sie können das Erweiterungsfenster durch Drücken der `Alt+Shift+S`-Taste aktivieren.
+Die Aibot (ChatGPT Shortcut) Browser-Erweiterung unterstützt Chrome und Edge mit Funktionen, die mit der Webversion übereinstimmen und regelmäßig aktualisiert werden. Die Erweiterung kann automatisch ausgelöst werden, wenn die ChatGPT-Seite geladen wird, oder Sie können das Erweiterungsfenster durch Drücken der `Alt+Shift+S`-Taste aktivieren.
 
 <a href="https://chrome.google.com/webstore/detail/chatgpt-shortcut/blcgeoojgdpodnmnhfpohphdhfncblnj">
   <img src="https://img.newzone.top/2023-06-05-12-28-49.png?imageMogr2/format/webp"  alt="Chrome" valign="middle" /></a>

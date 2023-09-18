@@ -1,6 +1,6 @@
 # Getting Started
 
-AiShort defaults to displaying all the suggested words. The page is divided into three sections: the tag area, the search area, and the suggested words display area.
+Aibot defaults to displaying all the suggested words. The page is divided into three sections: the tag area, the search area, and the suggested words display area.
 
 ![](https://img.newzone.top/2023-06-05-20-44-19.png?imageMogr2/format/webp)
 

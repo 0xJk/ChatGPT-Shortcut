@@ -1,6 +1,6 @@
 # Guide de démarrage
 
-AiShort affiche par défaut tous les mots suggérés. La page est divisée en trois sections : la zone des balises, la zone de recherche et la zone d'affichage des mots suggérés.
+Aibot affiche par défaut tous les mots suggérés. La page est divisée en trois sections : la zone des balises, la zone de recherche et la zone d'affichage des mots suggérés.
 
 ![](https://img.newzone.top/2023-06-05-20-44-19.png?imageMogr2/format/webp)
 

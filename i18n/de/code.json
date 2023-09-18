@@ -1,6 +1,6 @@
 {
   "description.communityPrompts": {
-    "message": "Entdecken Sie die Sammlung innovativer, von Aishort-Nutzern geteilter Prompts. Diese einzigartigen und lustigen Prompts können Sie beim Erstellen von kurzen Videos, Romanen, Spielen und mehr inspirieren. Stimmen Sie für Ihre Lieblingsprompts, kopieren Sie sie und teilen Sie sie mit Ihren Freunden. Lassen Sie Aishort Ihnen helfen, die Tür zur Kreativität zu öffnen und gemeinsam großartige Werke zu schaffen."
+    "message": "Entdecken Sie die Sammlung innovativer, von Aibot-Nutzern geteilter Prompts. Diese einzigartigen und lustigen Prompts können Sie beim Erstellen von kurzen Videos, Romanen, Spielen und mehr inspirieren. Stimmen Sie für Ihre Lieblingsprompts, kopieren Sie sie und teilen Sie sie mit Ihren Freunden. Lassen Sie Aibot Ihnen helfen, die Tür zur Kreativität zu öffnen und gemeinsam großartige Werke zu schaffen."
   },
   "field.id": {
     "message": "Freigabezeit"
@@ -46,8 +46,8 @@
     "message": "Vorschläge, Ideen und Anregungen sind willkommen, um ChatGPT Shortcut kontinuierlich zu verbessern und die persönliche Effizienz und Produktivität zu steigern. Wenn Sie ein Feedback zu einem Fehler geben möchten, geben Sie bitte einen Link an, wo das Problem aufgetreten ist und welche Umstände es verursacht hat. Für Prompt-Inhalte können Sie Inhalte in mehreren Sprachen einreichen oder einfach Ihre Idee für einen Prompt beschreiben. Wir sind auf der Suche nach Prompts, die den Geist anregen oder qualitativ hochwertige Ergebnisse hervorbringen. Sobald der von Ihnen eingereichte Prompt veröffentlicht wird, wird Ihr Beitrag der Seite hinzugefügt. Sie können den entsprechenden Eintrag finden, indem Sie nach dem Namen des Beitragenden (Benutzernamen) suchen.",
     "description": "The main paragraph on the feedback page"
   },
-  "AiShort (ChatGPT Shortcut) - 简单易用的 ChatGPT 快捷指令表，让生产力倍增！标签筛选、关键词搜索和一键复制 Prompts": {
-    "message": "AiShort (ChatGPT Shortcut) - Einfach zu verwendendes ChatGPT Shortcut-Befehlsblatt, das die Produktivität vervielfacht! Tag-Filterung, Stichwortsuche und Ein-Klick-Kopieren Prompts"
+  "Aibot (ChatGPT Shortcut) - 简单易用的 ChatGPT 快捷指令表，让生产力倍增！标签筛选、关键词搜索和一键复制 Prompts": {
+    "message": "Aibot (ChatGPT Shortcut) - Einfach zu verwendendes ChatGPT Shortcut-Befehlsblatt, das die Produktivität vervielfacht! Tag-Filterung, Stichwortsuche und Ein-Klick-Kopieren Prompts"
   },
   "让生产力加倍的 ChatGPT 快捷指令": {
     "message": "ChatGPT-Verknüpfungsbefehle, die die Produktivität verdoppeln"
@@ -65,8 +65,8 @@
   "toggle_prompt_language_description": {
     "message": "Ändert die Sprache, in der die Eingabeaufforderungen angezeigt werden, und wechselt zwischen Englisch und der aktuellen Sprache der Seite."
   },
-  "你添加或制作过的个人提示词，可用于存放AiShort之外的提示词。": {
-    "message": "Persönliche Stichwörter, die Sie hinzugefügt oder erstellt haben, können verwendet werden, um andere Stichwörter als AiShort zu speichern."
+  "你添加或制作过的个人提示词，可用于存放Aibot之外的提示词。": {
+    "message": "Persönliche Stichwörter, die Sie hinzugefügt oder erstellt haben, können verwendet werden, um andere Stichwörter als Aibot zu speichern."
   },
   "分享到社区的提示词": {
     "message": "Tipps für die Weitergabe an die Gemeinschaft"

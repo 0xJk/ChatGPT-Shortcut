@@ -1,6 +1,6 @@
 # Primeiros Passos
 
-O AiShort exibe, por padrão, todas as palavras sugeridas. A página está dividida em três seções: área de etiquetas, área de busca e área de exibição das palavras sugeridas.
+O Aibot exibe, por padrão, todas as palavras sugeridas. A página está dividida em três seções: área de etiquetas, área de busca e área de exibição das palavras sugeridas.
 
 ![](https://img.newzone.top/2023-06-05-20-44-19.png?imageMogr2/format/webp)
 

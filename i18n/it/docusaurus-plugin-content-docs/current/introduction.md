@@ -2,9 +2,9 @@
 slug: /
 ---
 
-# Introduzione ad AiShort
+# Introduzione ad Aibot
 
-AiShort offre un elenco conciso e facile da usare di istruzioni AI. Anche senza capire le sollecitazioni, è possibile trovare facilmente le sollecitazioni adatte per vari scenari attraverso la filtrazione e la ricerca, migliorando così la tua produttività.
+Aibot offre un elenco conciso e facile da usare di istruzioni AI. Anche senza capire le sollecitazioni, è possibile trovare facilmente le sollecitazioni adatte per vari scenari attraverso la filtrazione e la ricerca, migliorando così la tua produttività.
 
 🚀 **Prompts con un clic**: Con un solo clic, è possibile ottenere una varietà di prompts selezionati attentamente da esperti. Inviale a modelli di linguaggio AI come ChatGPT e potrai ottenere l'output previsto.
 
@@ -18,9 +18,9 @@ AiShort offre un elenco conciso e facile da usare di istruzioni AI. Anche senza 
 
 🗳️ **Sistema di votazione della comunità**: Simile a Product Hunt o Reddit, la piattaforma è guidata dalla comunità. I migliori prompts verranno spinti in homepage.
 
-📦 **Pronto all'uso**: Basta visitare <https://www.aishort.top/it/> per iniziare a usare.
+📦 **Pronto all'uso**: Basta visitare <https://www.aibot.top/it/> per iniziare a usare.
 
-La fonte dei prompts di AiShort include selezioni Internet, condivisioni della comunità e [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts). Aggiorneremo regolarmente per fornirti nuovi prompts e ispirazione.
+La fonte dei prompts di Aibot include selezioni Internet, condivisioni della comunità e [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts). Aggiorneremo regolarmente per fornirti nuovi prompts e ispirazione.
 
 Benvenuto a unirti alla nostra comunità Discord per scambiare idee e feedback.
 
@@ -30,7 +30,7 @@ Benvenuto a unirti alla nostra comunità Discord per scambiare idee e feedback.
 
 ## Estensione del browser
 
-L'estensione del browser AiShort (ChatGPT Shortcut) supporta Chrome e Edge con funzionalità coerente con la versione web ed è regolarmente aggiornata. L'estensione può essere attivata automaticamente non appena la pagina ChatGPT si carica, oppure è possibile attivare la finestra dell'estensione premendo la combinazione di tasti `Alt+Shift+S`.
+L'estensione del browser Aibot (ChatGPT Shortcut) supporta Chrome e Edge con funzionalità coerente con la versione web ed è regolarmente aggiornata. L'estensione può essere attivata automaticamente non appena la pagina ChatGPT si carica, oppure è possibile attivare la finestra dell'estensione premendo la combinazione di tasti `Alt+Shift+S`.
 
 <a href="https://chrome.google.com/webstore/detail/chatgpt-shortcut/blcgeoojgdpodnmnhfpohphdhfncblnj">
   <img src="https://img.newzone.top/2023-06-05-12-28-49.png?imageMogr2/format/webp"  alt="Chrome" valign="middle" /></a>

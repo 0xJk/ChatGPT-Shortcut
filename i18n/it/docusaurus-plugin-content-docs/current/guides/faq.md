@@ -2,7 +2,7 @@
 
 ## Perché le parole suggerite sono in inglese?
 
-AiShort è stato creato per facilitare l'uso di ChatGPT da parte di persone non native di lingua inglese. Tuttavia, tutte le parole suggerite sono in inglese. Ciò è dovuto al fatto che ChatGPT ha una migliore comprensione dell'inglese rispetto alle altre lingue. Anche MOSS, il primo modello di linguaggio cinese per il dialogo su larga scala, riconosce che le sue risposte in inglese sono superiori a quelle in cinese. Pertanto, si consiglia di utilizzare parole suggerite in inglese. (MOSS non è più disponibile)
+Aibot è stato creato per facilitare l'uso di ChatGPT da parte di persone non native di lingua inglese. Tuttavia, tutte le parole suggerite sono in inglese. Ciò è dovuto al fatto che ChatGPT ha una migliore comprensione dell'inglese rispetto alle altre lingue. Anche MOSS, il primo modello di linguaggio cinese per il dialogo su larga scala, riconosce che le sue risposte in inglese sono superiori a quelle in cinese. Pertanto, si consiglia di utilizzare parole suggerite in inglese. (MOSS non è più disponibile)
 
 Sebbene l'uso di parole suggerite in altre lingue possa dare risultati decenti, i risultati possono variare significativamente quando si inseriscono le stesse sollecitazioni non in inglese. Poiché la comprensione di ChatGPT delle sollecitazioni non in inglese varia ogni volta, si consiglia di utilizzare sollecitazioni in inglese per sollecitazioni orientate alla produttività al fine di ottenere l'output desiderato. Inoltre, le risposte generate da sollecitazioni in inglese saranno probabilmente in inglese. È possibile specificare la lingua di risposta come cinese aggiungendo "rispondi in cinese" alla fine della sollecitazione. Se la tua lingua madre è diversa, sostituisci "cinese" con la tua lingua madre.
 
@@ -18,7 +18,7 @@ La funzione di ricerca si basa sulla vetrina di Docusaurus e presenta un problem
 
 ## Emissione di informazioni false
 
-Anche se ChatGPT è molto potente, non è infallibile. A volte può emettere informazioni false. Ad esempio, quando ho avuto bisogno di inserire centinaia di informazioni in AiShort, ho fatto convertire i dati da ChatGPT in un formato specifico. Tuttavia, durante il processo di conversione, ho notato che ChatGPT aveva scritto in modo inaccurato alcune delle informazioni. Ad esempio, una dicitura nel testo era "critico cinematografico", ma ChatGPT l'ha cambiata in "critico del cinema". Sebbene ciò potrebbe non avere alcun impatto sul testo stesso, potrebbe causare un errore quando viene utilizzato nel codice. Pertanto, quando si utilizza ChatGPT, è essenziale rivedere il suo output.
+Anche se ChatGPT è molto potente, non è infallibile. A volte può emettere informazioni false. Ad esempio, quando ho avuto bisogno di inserire centinaia di informazioni in Aibot, ho fatto convertire i dati da ChatGPT in un formato specifico. Tuttavia, durante il processo di conversione, ho notato che ChatGPT aveva scritto in modo inaccurato alcune delle informazioni. Ad esempio, una dicitura nel testo era "critico cinematografico", ma ChatGPT l'ha cambiata in "critico del cinema". Sebbene ciò potrebbe non avere alcun impatto sul testo stesso, potrebbe causare un errore quando viene utilizzato nel codice. Pertanto, quando si utilizza ChatGPT, è essenziale rivedere il suo output.
 
 ## Le parole suggerite non funzionano bene
 

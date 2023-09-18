@@ -2,7 +2,7 @@ import axios from "axios";
 import ExecutionEnvironment from '@docusaurus/ExecutionEnvironment';
 
 const API_URL1 = "https://api.newzone.top/strapi-google-auth"; // http://localhost:1337  https://api.newzone.top
-const API_URL = "https://gauth.aishort.top/strapi-google-auth";
+const API_URL = "https://gauth.aibot.top/strapi-google-auth";
 let authToken;
 if (ExecutionEnvironment.canUseDOM) {
   authToken = localStorage.getItem("auth_token");

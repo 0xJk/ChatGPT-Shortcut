@@ -1,6 +1,6 @@
 # Guida all'Utilizzo
 
-AiShort visualizza di default tutte le parole suggerite. La pagina è divisa in tre sezioni: l'area dei tag, l'area di ricerca e l'area di visualizzazione delle parole suggerite.
+Aibot visualizza di default tutte le parole suggerite. La pagina è divisa in tre sezioni: l'area dei tag, l'area di ricerca e l'area di visualizzazione delle parole suggerite.
 
 ![](https://img.newzone.top/2023-06-05-20-44-19.png?imageMogr2/format/webp)
 

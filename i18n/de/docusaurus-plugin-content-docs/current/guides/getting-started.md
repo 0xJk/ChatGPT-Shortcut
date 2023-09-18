@@ -1,6 +1,6 @@
 # Erste Schritte
 
-AiShort zeigt standardmäßig alle vorgeschlagenen Wörter an. Die Seite ist in drei Abschnitte unterteilt: den Tag-Bereich, den Suchbereich und den Bereich zur Anzeige der vorgeschlagenen Wörter.
+Aibot zeigt standardmäßig alle vorgeschlagenen Wörter an. Die Seite ist in drei Abschnitte unterteilt: den Tag-Bereich, den Suchbereich und den Bereich zur Anzeige der vorgeschlagenen Wörter.
 
 ![](https://img.newzone.top/2023-06-05-20-44-19.png?imageMogr2/format/webp)
 
