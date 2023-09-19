@@ -147,7 +147,7 @@ const config = {
             items: [
               {
                 label: "图像提示词生成器",
-                href: "https://prompt.sample.top/",
+                href: "https://mj-tools.chefkang.xyz/",
               },
             ],
           },
@@ -167,11 +167,6 @@ const config = {
             ],
           },
           { type: "localeDropdown", position: "right" },
-          {
-            href: "https://github.com/",
-            position: "right",
-            className: "header-github-link",
-          },
           {
             href: "https://discord.gg/",
             position: "right",
