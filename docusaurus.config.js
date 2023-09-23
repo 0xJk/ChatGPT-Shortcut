@@ -136,6 +136,11 @@ const config = {
         },
         items: [
           {
+            to: "https://www.chefkang.xyz/",
+            label: "👨‍🍳 回到康师傅小空间",
+            position: "left",
+          },
+          {
             to: "/community-prompts",
             label: "🏘️ 社区提示词",
             position: "left",
